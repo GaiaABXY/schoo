@@ -1,5 +1,5 @@
 ＃Schoo練習用のリポジトリ
 2/9
 
-kawaii
+kawaii　宇佐美伊織
 
